@@ -1,0 +1,5 @@
+[05-Oct-2015 05:27:00 UTC] PHP Fatal error:  Call to undefined function delete() in /home/sushilpal816/public_html/manoj/demobuzz/app/controllers/UsersController.php on line 67
+[05-Oct-2015 20:14:38 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/sushilpal816/public_html/manoj/demobuzz/app/controllers/UsersController.php on line 73
+[05-Oct-2015 21:46:50 UTC] PHP Parse error:  syntax error, unexpected 'Vanguart' (T_STRING) in /home/sushilpal816/public_html/manoj/demobuzz/app/storage/views/e5d0ebda737aba4af7e64f983e8f7d08 on line 4
+[05-Oct-2015 21:47:17 UTC] PHP Parse error:  syntax error, unexpected 'Vanguart' (T_STRING), expecting ',' or ';' in /home/sushilpal816/public_html/manoj/demobuzz/app/storage/views/e5d0ebda737aba4af7e64f983e8f7d08 on line 4
+[06-Oct-2015 04:10:57 UTC] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/sushilpal816/public_html/manoj/demobuzz/app/controllers/UsersController.php on line 39
